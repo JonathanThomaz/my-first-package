@@ -1,25 +1,24 @@
 {
-  "name": "@soufantech/node-ts-lib-boilerplate",
+  "name": "@jonathanthomaz/my-first-package",
   "version": "0.0.0",
-  "description": "SouFan's TypeScript boilerplate for Node.js libraries",
+  "description": "This is my first package",
   "keywords": [],
   "author": {
-    "name": "SouFan Team",
-    "email": "no-reply@soufan.com.br",
-    "url": "https://github.com/soufantech"
+    "name": "Jonathan Thomaz",
+    "email": "jonathanthomaz96@gmail.com",
+    "url": "https://github.com/jonathanthomaz"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soufantech/node-ts-lib-boilerplate.git"
+    "url": "https://github.com/jonathanthomaz/my-first-package.git"
   },
-  "homepage": "https://github.com/soufantech/node-ts-lib-boilerplate#readme",
+  "homepage": "https://github.com/jonathanthomaz/my-first-package#readme",
   "bugs": {
-    "url": "https://github.com/soufantech/node-ts-lib-boilerplate/issues"
+    "url": "https://github.com/jonathanthomaz/my-first-package/issues"
   },
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
   "publishConfig": {
-    "access:": "restricted"
+    "access:": "public"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
